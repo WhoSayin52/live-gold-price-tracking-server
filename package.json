@@ -1,0 +1,21 @@
+{
+  "name": "live-gold-price-app",
+  "version": "1.0.0",
+  "description": "Gives live update of mock gold prices",
+  "homepage": "https://github.com/WhoSayin52/live-gold-price-app#readme",
+  "bugs": {
+    "url": "https://github.com/WhoSayin52/live-gold-price-app/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WhoSayin52/live-gold-price-app.git"
+  },
+  "license": "ISC",
+  "author": "WhoSayin52",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  }
+}
