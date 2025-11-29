@@ -1,4 +1,4 @@
-# Live Gold Price Web App
+# Live Gold Price Server
 
 ## Table of Contents
 - [Description](#description)
