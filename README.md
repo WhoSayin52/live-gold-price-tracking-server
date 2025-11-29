@@ -7,7 +7,7 @@
 
 ## Description
 
-A simple client-server web app that **updates simulated gold prices every 5 seconds**.  
+A simple server with a simple client interface that **updates simulated gold prices every 5 seconds**.  
 Gold prices are simulated because most APIs update slowly; this way, you can see the server-client interaction in real time.
 
 ### Frontend
