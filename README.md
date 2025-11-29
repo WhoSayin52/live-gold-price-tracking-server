@@ -1,4 +1,4 @@
-# Live Gold Price Server
+# Live Gold Price Tracking Server
 
 ## Table of Contents
 - [Description](#description)
